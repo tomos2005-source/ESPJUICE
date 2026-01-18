@@ -1,0 +1,23 @@
+{
+    "name": "pxt-wifi-sensor-board",
+    "version": "0.0.1",
+    "description": "WiFi communication and sensor control board extension",
+    "dependencies": {
+        "core": "*",
+        "serial": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tspkg"
+}
