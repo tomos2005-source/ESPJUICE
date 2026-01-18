@@ -1,7 +1,7 @@
 {
     "name": "pxt-wifi-sensor-board",
-    "version": "0.0.1",
-    "description": "WiFi communication and sensor control board extension",
+    "version": "0.1.0",
+    "description": "Custom blocks for WiFi Sensor Board via Serial",
     "dependencies": {
         "core": "*",
         "serial": "*"
